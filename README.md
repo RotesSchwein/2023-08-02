@@ -1,2 +1,4 @@
 # temp-project-A
-# this is a the FIRST rule
+
+## 2023/08/02
+    created README.md file
