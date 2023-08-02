@@ -1,3 +1,0 @@
-This is a sample text file. \n Please edit this file later.
-This is a sample text file. /n Please edit this file later.
-This is a sample text file./nPlease edit this file later.
